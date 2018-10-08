@@ -3,6 +3,6 @@ This is a ray tracer program
 -- anti-aliasing
 -- depth of field
 -- soft shadows
--- emvironment mapping
+-- environment mapping
 -- texture mapping
 -- glossy reflection
